@@ -8,7 +8,8 @@ type nul > nombredearchivo.txt
 ```
 - Crear un archivo
 ```
-cd "NOMBRE_CARPETA"
+cd CarpetaSinEspacios
+cd 'Carpeta con espacios'
 ```
 - Moverse a la carpeta
 ```
