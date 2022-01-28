@@ -1,8 +1,12 @@
-## COMANDO CMD
+## COMANDOS CMD
 ```
 mkdir "NOMBRE_CARPETA"
 ```
 - Crea una carpeta
+```
+type nul > nombredearchivo.txt
+```
+- Crear un archivo
 ```
 cd "NOMBRE_CARPETA"
 ```
@@ -11,10 +15,7 @@ cd "NOMBRE_CARPETA"
 cd ..
 ```
 - Regresar a una carpeta anterior
-```
-type nul > nombredearchivo.txt
-```
-- Crear un archivo
+
 ```
 start .
 ```
